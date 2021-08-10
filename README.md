@@ -1,3 +1,3 @@
-## First class 
+## class 
 
 Author : Ke Ma
